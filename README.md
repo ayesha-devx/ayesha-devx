@@ -15,19 +15,19 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- React.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
+React.js • TypeScript • Tailwind CSS • HTML • CSS • JavaScript
 
 ### ⚙️ Backend
-- Node.js, Express.js, Django
+Node.js • Express.js • Django
 
 ### 🗄️ Database
-- MongoDB, SQLite
+MongoDB • SQLite
 
 ### 🧠 AI / ML
-- Machine Learning, Gemini API
+Machine Learning • Gemini API
 
 ### 🛠️ Tools
-- Git, GitHub, Vercel, Render
+Git • GitHub • Vercel • Render
 
 ---
 
@@ -60,7 +60,11 @@ Modern e-commerce frontend with responsive UI, cart, and wishlist features
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-devx&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-devx&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayesha-devx&theme=tokyonight" />
 </p>
 
 ---
