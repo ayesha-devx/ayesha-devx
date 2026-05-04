@@ -57,18 +57,6 @@ Modern e-commerce frontend with responsive UI, cart, and wishlist features
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-devx&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayesha-devx&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ayesha-topiwala-b70a20369/
 - 🌍 Portfolio: https://ayesha-portfolio-rkf9.vercel.app
